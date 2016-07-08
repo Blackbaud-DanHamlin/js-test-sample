@@ -1,0 +1,22 @@
+{
+  "name": "js test sample",
+  "version": "1.0.0",
+  "description": "Example use of karma, jasmine, and istanbul.",
+  "author": "Dan Hamlin <dhamlin@microedge.com>",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackbaud-danhamlin/js-test-sample.git"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "jquery": "^3.0.0",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-coverage": "^1.1.0",
+    "karma-jasmine": "^1.0.2"
+  },
+  "license": "MIT"
+}
